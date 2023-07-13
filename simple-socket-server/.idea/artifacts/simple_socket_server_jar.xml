@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="simple-socket-server:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/simple_socket_server_jar</output-path>
+    <root id="archive" name="simple-socket-server.jar">
+      <element id="module-output" name="simple-socket-server" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../ojdbc11.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
